@@ -49,8 +49,10 @@ int main(){
     int opcao;
 
     do {
-
-        cout << "Bem vindo!" << endl;
+        
+        cout << "---------------------------------" << endl;
+        cout << "           Bem vindo!" << endl;
+        cout << "---------------------------------" << endl;
         cout << "1. Adicionar Produto" << endl;
         cout << "2. Exibir Produtos" << endl;
         cout << "3. Calcular Valor Total do Stock" << endl;
